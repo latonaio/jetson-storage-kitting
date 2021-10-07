@@ -3,7 +3,7 @@ Jetson 端末に外部拡張ストレージとして、SSDを装備する方法�
 こちらはNVIDIA Jetson AGX Xavier 開発者キットでの例です。   
 
 ### ハードウェアの設定
-
+↓ YouTube動画に飛びます。※音声が出る場合もありますのでご注意ください。   
 [![JetsonStorageKitting](https://img.youtube.com/vi/zxjZqU0p2yY/0.jpg)](https://www.youtube.com/watch?v=zxjZqU0p2yY)
 
 #### 手順
